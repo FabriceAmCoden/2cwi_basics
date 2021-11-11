@@ -1,0 +1,37 @@
+.satz {
+
+    background-color: aqua;
+    border: solid;
+    display: flex;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    text-align: center;
+  
+
+}
+
+.box1 {
+
+    background-color: chartreuse;
+    margin: 40px;
+    border-bottom: solid;
+    text-align: justify;
+
+}
+
+.pra {
+    background-color: fuchsia;
+    position: relative;
+    top: 20px;
+    
+}
+
+.liste {
+    background-color: gold;
+    position: relative;
+    height: 100%;
+    border-radius: 25px;
+    border: solid;
+}
+
