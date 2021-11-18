@@ -1,0 +1,54 @@
+.erstes  {
+background-color: chartreuse;
+display: flex;
+position:relative;
+left: 0%;
+top: 0%;
+margin: 40px;
+padding: 40px;;
+height: 460px;
+width: 200px;
+
+
+}
+
+.erste2 {
+    background-color: blue;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+   
+}
+
+.erstes3 {
+
+    background-color: orange;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+
+}
+
+.bottom {
+
+    background-color: orchid;
+    height: 150px;
+    width: auto;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    border: solid;
+}
+
+.box{
+    background-color: green;
+    height: 40px;
+    width: 40px;
+ 
+    
+}
