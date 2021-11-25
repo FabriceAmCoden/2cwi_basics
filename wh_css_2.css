@@ -1,0 +1,76 @@
+.main {
+    background-color: grey;
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    justify-content: space-between;
+    top: 0%;
+    left: 0%;
+}
+
+.leftfirst {
+    background-color: aqua;
+    
+    display: flex;
+    position: relative;
+    left: 0%;
+    top: 0%;
+    height: 200px;
+    width: 200px;
+    
+    
+}
+
+.one {
+    background-color: blue;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    width: 50px;
+    height: 50px;
+}
+
+.rightsec {
+
+        background-color: brown;
+        
+        display: flex;
+        position: relative;
+        right: 0%;
+        top: 0%;
+        height: 200px;
+        width: 200px;
+        
+}
+
+.two {
+        background-color: red;
+        position: absolute;
+        left: 0%;
+        bottom: 0%;
+        width: 50px;
+        height: 50px;
+}
+
+.under{
+    background-color: violet;
+    right: 0%;
+    bottom: 0%;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    
+
+}
+
+.bot{
+    background-color: yellow;
+    display: flex;
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    width: 100px;
+    height: 100px;
+
+}
