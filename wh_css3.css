@@ -1,0 +1,60 @@
+.main {
+
+    display: flex;
+    position: relative;
+    background-color: white;
+    width: auto;
+    height: 300px;
+    
+    justify-content: space-between;
+    border: solid;
+   
+
+}
+
+.first {
+background-color: coral;
+
+}
+
+.second {
+   background-color: black;
+
+}
+
+.third {
+   background-color: cyan;
+}
+
+.erst {
+background-color: burlywood;
+display: flex;
+position: relative;
+width: 100px;
+height: 100px;
+
+
+
+}
+
+.zweit {
+    background-color: cadetblue;
+    display: flex;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 40px;
+    padding: 40px;
+   
+}
+
+.drit {
+
+    background-color: pink;
+    display: flex;
+    position: relative;
+    width: 100px;
+    height: 100px;
+
+
+}

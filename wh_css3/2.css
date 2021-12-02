@@ -1,0 +1,105 @@
+.oben {
+
+    height: 400px;
+    width: 100%;
+    background-color: lightslategrey;   
+    display: flex;
+    position: relative;
+    justify-content: start;
+
+}
+
+
+
+.box1 {
+
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 20px;
+
+}
+
+
+
+.box2 {
+
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 20px;
+
+}
+
+
+
+.box3 {
+
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 20px;
+
+}
+
+
+
+.uno {
+
+    background-color: brown;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    margin-top: 65px;
+
+}
+
+
+
+.da {
+
+    background-color: yellow;
+    height: 300px;
+    width: 30%;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+
+}
+
+
+
+.meno {
+
+    background-color: chartreuse;
+
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+
+
+
+.wave {
+
+    background-color: chartreuse;
+
+    width: 50px;
+    height: 50px;
+    bottom: 0px;
+    position: absolute;
+    left: 0px;
+
+}
