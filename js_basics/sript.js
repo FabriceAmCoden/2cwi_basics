@@ -36,8 +36,11 @@ console.log ("das Ergebnis ist " +b)
  c = c-3;
  
  console.log ("The Result is " +c)
-
  
+
+
+
+
 
 
 
