@@ -5,10 +5,10 @@ let c = a / b;
 
 console.log ("The result of" + a + "divided" / b +  "is" +c );
 
+-
 
-
-let firstname = " Fabrice ";
+let hello= " Fabrice ";
 let lastname = " Trinkl ";
-let full = firstname + lastname;
+let full = hello + lastname;
 
-console.log ("Ich heiße" + full );
+console.log ("Ich heiße " +full );
