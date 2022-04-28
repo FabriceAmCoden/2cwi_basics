@@ -1,9 +1,20 @@
-let days = " "
-for (let index = 1; index < 31 rray.length; index++) {
-    const element = array[index];
+printMonth(31);
 
-days = days + index + " | "
-console.log(days)
-    
+function printMonth(amountOFdays){
+    days = "";
+    for (let index = 1; index <= amountOFdays; index++) {
+        if (index<10) {
+            days = days + "0" + index + " | "
+        }
+        else{
+            days = days + index + " | "
+        }
+        if (index%7==0){
+            console.log(days);
+            days="";
+        }
+     }
+    console.log(days);
 }
+
 
