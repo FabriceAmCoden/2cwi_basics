@@ -19,7 +19,3 @@ else if (randomAsInteger == 0) {
     console.log("0");
 }
 
-else {
-
-    console.log("error")
-}
